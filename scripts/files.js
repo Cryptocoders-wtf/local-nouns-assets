@@ -14,6 +14,9 @@ const pngFiles = (dir) => {
   });
 };
 
+const image = (file, baseDir, dir) => {
+  return `![${file}](./${baseDir}/${dir}/${file})`;
+}
 const readDir = async (baseDir) => {
   console.log("# " + baseDir);
   const assetDir = '../images/' + baseDir;
@@ -27,7 +30,7 @@ const readDir = async (baseDir) => {
           const pngs = await pngFiles(prefDir);
           console.log("## " + dir)
           pngs.map(png => {
-            console.log(" - " + png);
+            console.log(" - " + png + " " + image(png, baseDir, dir));
           });
         }
         resolve()
