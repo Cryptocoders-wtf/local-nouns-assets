@@ -38,8 +38,11 @@
 ## 25-shiga
 ## 26-kyoto
 ## 27-osaka
+ - osaka-jinbezame.png ![osaka-jinbezame.png](./2-accessories/27-osaka/osaka-jinbezame.png)
 ## 28-hyogo
+ - hyogo-akashiyaki.png ![hyogo-akashiyaki.png](./2-accessories/28-hyogo/hyogo-akashiyaki.png)
 ## 29-nara
+ - nara-kakinohasushi.png ![nara-kakinohasushi.png](./2-accessories/29-nara/nara-kakinohasushi.png)
 ## 30-wakayama
 ## 31-tottori
 ## 32-shimane
@@ -128,10 +131,13 @@
  - head-26-kyoto.png ![head-26-kyoto.png](./3-heads/26-kyoto/head-26-kyoto.png)
 ## 27-osaka
  - head-27-osaka.png ![head-27-osaka.png](./3-heads/27-osaka/head-27-osaka.png)
+ - osaka-takoyaki.png ![osaka-takoyaki.png](./3-heads/27-osaka/osaka-takoyaki.png)
 ## 28-hyogo
  - head-28-hyogo.png ![head-28-hyogo.png](./3-heads/28-hyogo/head-28-hyogo.png)
+ - hyogo-himejicastle.png ![hyogo-himejicastle.png](./3-heads/28-hyogo/hyogo-himejicastle.png)
 ## 29-nara
  - head-29-nara.png ![head-29-nara.png](./3-heads/29-nara/head-29-nara.png)
+ - nara-deer.png ![nara-deer.png](./3-heads/29-nara/nara-deer.png)
 ## 30-wakayama
  - head-30-wakayama.png ![head-30-wakayama.png](./3-heads/30-wakayama/head-30-wakayama.png)
 ## 31-tottori
