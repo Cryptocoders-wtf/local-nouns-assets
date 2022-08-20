@@ -1,94 +1,173 @@
-2-accessories 02-aomori [ 'aomori-squid.png' ]
-2-accessories 03-iwate []
-2-accessories 05-akita []
-2-accessories 06-yamagata [ 'yamagata-shogi.png' ]
-2-accessories 07-fukushima []
-2-accessories 01-hokkaido [ 'hokkaido-crab.png' ]
-2-accessories 04-miyagi [ 'miyagi-zunda.png' ]
-2-accessories 09-tochigi [ 'tochigi-lemon.png' ]
-2-accessories 08-ibaraki []
-2-accessories 11-saitama []
-2-accessories 10-gunma [ 'gunma-yakimanjyu.png' ]
-2-accessories 12-chiba []
-2-accessories 13-tokyo [ 'tokyo-tower.png' ]
-2-accessories 15-niigata [ 'niigata-riceear.png' ]
-2-accessories 14-kanagawa [ 'kanagawa_yacht.png' ]
-2-accessories 16-toyama [ 'toyama-kutabe.png' ]
-2-accessories 17-ishikawa [ 'ishikawa-oyster.png' ]
-2-accessories 18-fukui [ 'fukui-yokan.png' ]
-2-accessories 19-yamanashi []
-2-accessories 20-nagano []
-2-accessories 21-gifu []
-2-accessories 22-shizuoka []
-2-accessories 23-aichi []
-2-accessories 24-mie []
-2-accessories 25-shiga []
-2-accessories 26-kyoto []
-2-accessories 28-hyogo []
-2-accessories 27-osaka []
-2-accessories 29-nara []
-2-accessories 30-wakayama []
-2-accessories 31-tottori []
-2-accessories 32-shimane []
-2-accessories 33-okayama []
-2-accessories 34-hiroshima []
-2-accessories 36-tokushima []
-2-accessories 37-kagawa []
-2-accessories 38-ehime []
-2-accessories 39-kochi []
-2-accessories 42-nagasaki [ 'nagasaki-gunkanto.png' ]
-2-accessories 41-saga []
-2-accessories 40-fukuoka []
-2-accessories 43-kumamoto []
-2-accessories 44-oita []
-2-accessories 45-miyazaki []
-2-accessories 46-kagoshima [ 'kagoshima-senganen.png' ]
-2-accessories 35-yamaguchi []
-3-heads 01-hokkaido [ 'head-01-hokkaido.png', 'hokkaido-ishikari.png' ]
-2-accessories 47-okinawa [ 'okinawa-satokibi.png' ]
-3-heads 03-iwate [ 'head-03-iwate.png' ]
-3-heads 04-miyagi [ 'head-04-miyagi.png', 'miyagi-tanabata.png' ]
-3-heads 05-akita [ 'head-05-akita.png' ]
-3-heads 06-yamagata [ 'head-06-yamagata.png', 'yamagata-zaookama.png' ]
-3-heads 07-fukushima [ 'head-07-fukushima.png' ]
-3-heads 02-aomori [ 'aomori-apple.png', 'head-02-aomori.png' ]
-3-heads 08-ibaraki [ 'head-08-ibaraki.png' ]
-3-heads 09-tochigi [ 'head-09-tochigi.png', 'tochigi-toshogu.png' ]
-3-heads 11-saitama [ 'head-11-saitama.png' ]
-3-heads 10-gunma [ 'gunma-kusatsu.png', 'head-10-gunma.png' ]
-3-heads 12-chiba [ 'head-12-chiba.png' ]
-3-heads 13-tokyo [ 'head-13-tokyo.png', 'tokyo-tower.png' ]
-3-heads 14-kanagawa [ 'head-14-kanagawa.png', 'kanagawa-king.png' ]
-3-heads 15-niigata [ 'head-15-niigata.png', 'niigata-tulip.png' ]
-3-heads 17-ishikawa [ 'head-17-ishikawa.png', 'ishikawa-curry.png' ]
-3-heads 16-toyama [ 'head-16-toyama.png', 'toyama-kutabe.png' ]
-3-heads 18-fukui [ 'fukui-dinosaur.png', 'head-18-fukui.png' ]
-3-heads 19-yamanashi [ 'head-19-yamanashi.png' ]
-3-heads 20-nagano [ 'head-20-nagano.png' ]
-3-heads 21-gifu [ 'head-21-gifu.png' ]
-3-heads 22-shizuoka [ 'head-22-shizuoka.png' ]
-3-heads 23-aichi [ 'head-23-aichi.png' ]
-3-heads 24-mie [ 'head-24-mie.png' ]
-3-heads 25-shiga [ 'head-25-shiga.png' ]
-3-heads 26-kyoto [ 'head-26-kyoto.png' ]
-3-heads 27-osaka [ 'head-27-osaka.png' ]
-3-heads 29-nara [ 'head-29-nara.png' ]
-3-heads 30-wakayama [ 'head-30-wakayama.png' ]
-3-heads 31-tottori [ 'head-31-tottori.png' ]
-3-heads 28-hyogo [ 'head-28-hyogo.png' ]
-3-heads 32-shimane [ 'head-32-shimane.png' ]
-3-heads 33-okayama [ 'head-33-okayama.png' ]
-3-heads 34-hiroshima [ 'head-34-hiroshima.png' ]
-3-heads 35-yamaguchi [ 'head-35-yamaguchi.png' ]
-3-heads 36-tokushima [ 'head-36-tokushima.png' ]
-3-heads 38-ehime [ 'head-38-ehime.png' ]
-3-heads 37-kagawa [ 'head-37-kagawa.png' ]
-3-heads 40-fukuoka [ 'head-40-fukuoka.png' ]
-3-heads 39-kochi [ 'head-39-kochi.png' ]
-3-heads 41-saga [ 'head-41-saga.png' ]
-3-heads 42-nagasaki [ 'head-42-nagasaki.png', 'nagasaki-saseboburger.png' ]
-3-heads 44-oita [ 'head-44-oita.png' ]
-3-heads 43-kumamoto [ 'head-43-kumamoto.png' ]
-3-heads 46-kagoshima [ 'head-46-kagoshima.png', 'kagoshima-goromon.png' ]
-3-heads 45-miyazaki [ 'head-45-miyazaki.png' ]
-3-heads 47-okinawa [ 'head-47-okinawa.png', 'okinawa-siisa.png' ]
+# 2-accessories
+## 01-hokkaido
+ - hokkaido-crab.png
+## 02-aomori
+ - aomori-squid.png
+## 03-iwate
+## 04-miyagi
+ - miyagi-zunda.png
+## 05-akita
+## 06-yamagata
+ - yamagata-shogi.png
+## 07-fukushima
+## 08-ibaraki
+## 09-tochigi
+ - tochigi-lemon.png
+## 10-gunma
+ - gunma-yakimanjyu.png
+## 11-saitama
+## 12-chiba
+## 13-tokyo
+ - tokyo-tower.png
+## 14-kanagawa
+ - kanagawa_yacht.png
+## 15-niigata
+ - niigata-riceear.png
+## 16-toyama
+ - toyama-kutabe.png
+## 17-ishikawa
+ - ishikawa-oyster.png
+## 18-fukui
+ - fukui-yokan.png
+## 19-yamanashi
+## 20-nagano
+## 21-gifu
+## 22-shizuoka
+## 23-aichi
+## 24-mie
+## 25-shiga
+## 26-kyoto
+## 27-osaka
+## 28-hyogo
+## 29-nara
+## 30-wakayama
+## 31-tottori
+## 32-shimane
+## 33-okayama
+## 34-hiroshima
+## 35-yamaguchi
+## 36-tokushima
+## 37-kagawa
+## 38-ehime
+## 39-kochi
+## 40-fukuoka
+## 41-saga
+## 42-nagasaki
+ - nagasaki-gunkanto.png
+## 43-kumamoto
+## 44-oita
+## 45-miyazaki
+## 46-kagoshima
+ - kagoshima-senganen.png
+## 47-okinawa
+ - okinawa-satokibi.png
+# 3-heads
+## 01-hokkaido
+ - head-01-hokkaido.png
+ - hokkaido-ishikari.png
+## 02-aomori
+ - aomori-apple.png
+ - head-02-aomori.png
+## 03-iwate
+ - head-03-iwate.png
+## 04-miyagi
+ - head-04-miyagi.png
+ - miyagi-tanabata.png
+## 05-akita
+ - head-05-akita.png
+## 06-yamagata
+ - head-06-yamagata.png
+ - yamagata-zaookama.png
+## 07-fukushima
+ - head-07-fukushima.png
+## 08-ibaraki
+ - head-08-ibaraki.png
+## 09-tochigi
+ - head-09-tochigi.png
+ - tochigi-toshogu.png
+## 10-gunma
+ - gunma-kusatsu.png
+ - head-10-gunma.png
+## 11-saitama
+ - head-11-saitama.png
+## 12-chiba
+ - head-12-chiba.png
+## 13-tokyo
+ - head-13-tokyo.png
+ - tokyo-tower.png
+## 14-kanagawa
+ - head-14-kanagawa.png
+ - kanagawa-king.png
+## 15-niigata
+ - head-15-niigata.png
+ - niigata-tulip.png
+## 16-toyama
+ - head-16-toyama.png
+ - toyama-kutabe.png
+## 17-ishikawa
+ - head-17-ishikawa.png
+ - ishikawa-curry.png
+## 18-fukui
+ - fukui-dinosaur.png
+ - head-18-fukui.png
+## 19-yamanashi
+ - head-19-yamanashi.png
+## 20-nagano
+ - head-20-nagano.png
+## 21-gifu
+ - head-21-gifu.png
+## 22-shizuoka
+ - head-22-shizuoka.png
+## 23-aichi
+ - head-23-aichi.png
+## 24-mie
+ - head-24-mie.png
+## 25-shiga
+ - head-25-shiga.png
+## 26-kyoto
+ - head-26-kyoto.png
+## 27-osaka
+ - head-27-osaka.png
+## 28-hyogo
+ - head-28-hyogo.png
+## 29-nara
+ - head-29-nara.png
+## 30-wakayama
+ - head-30-wakayama.png
+## 31-tottori
+ - head-31-tottori.png
+## 32-shimane
+ - head-32-shimane.png
+## 33-okayama
+ - head-33-okayama.png
+## 34-hiroshima
+ - head-34-hiroshima.png
+## 35-yamaguchi
+ - head-35-yamaguchi.png
+## 36-tokushima
+ - head-36-tokushima.png
+## 37-kagawa
+ - head-37-kagawa.png
+## 38-ehime
+ - head-38-ehime.png
+## 39-kochi
+ - head-39-kochi.png
+## 40-fukuoka
+ - head-40-fukuoka.png
+## 41-saga
+ - head-41-saga.png
+## 42-nagasaki
+ - head-42-nagasaki.png
+ - nagasaki-saseboburger.png
+## 43-kumamoto
+ - head-43-kumamoto.png
+## 44-oita
+ - head-44-oita.png
+## 45-miyazaki
+ - head-45-miyazaki.png
+## 46-kagoshima
+ - head-46-kagoshima.png
+ - kagoshima-goromon.png
+## 47-okinawa
+ - head-47-okinawa.png
+ - okinawa-siisa.png
