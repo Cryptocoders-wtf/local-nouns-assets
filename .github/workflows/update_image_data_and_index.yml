@@ -1,0 +1,36 @@
+name: Update Image Data and Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "images/**/**.png"
+
+jobs:
+  update_image_data_and_index:
+    runs-on: ubuntu-latest
+    if: github.repository_owner == 'Cryptocoders-wtf'
+    strategy:
+      matrix:
+        node-version: [15.x]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: node scripts/files.js > images/README.md
+      - name: Setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Commit image data and index
+        run: |
+          git add images/README.md
+          if [ $(git diff --staged --name-only | wc -l) != 0 ]; then
+            git commit -m "Update image data and index"
+            git push origin main
+          else
+            echo "No change on image data and index"
+          fi

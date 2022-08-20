@@ -19,7 +19,7 @@ const image = (file, baseDir, dir) => {
 }
 const readDir = async (baseDir) => {
   console.log("# " + baseDir);
-  const assetDir = '../images/' + baseDir;
+  const assetDir = './images/' + baseDir;
 
   await (() => {
     return new Promise((resolve, reject) => {
