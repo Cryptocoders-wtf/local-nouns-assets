@@ -8,6 +8,7 @@
  - miyagi-zunda.png ![miyagi-zunda.png](./2-accessories/04-miyagi/miyagi-zunda.png)
 ## 05-akita
 ## 06-yamagata
+ - yamagata-lafrance.png ![yamagata-lafrance.png](./2-accessories/06-yamagata/yamagata-lafrance.png)
  - yamagata-shogi.png ![yamagata-shogi.png](./2-accessories/06-yamagata/yamagata-shogi.png)
 ## 07-fukushima
 ## 08-ibaraki
@@ -22,9 +23,11 @@
 ## 14-kanagawa
  - kanagawa_yacht.png ![kanagawa_yacht.png](./2-accessories/14-kanagawa/kanagawa_yacht.png)
 ## 15-niigata
+ - nigata-edamame.png ![nigata-edamame.png](./2-accessories/15-niigata/nigata-edamame.png)
  - niigata-riceear.png ![niigata-riceear.png](./2-accessories/15-niigata/niigata-riceear.png)
 ## 16-toyama
  - toyama-kutabe.png ![toyama-kutabe.png](./2-accessories/16-toyama/toyama-kutabe.png)
+ - toyama-tateyama.png ![toyama-tateyama.png](./2-accessories/16-toyama/toyama-tateyama.png)
 ## 17-ishikawa
  - ishikawa-oyster.png ![ishikawa-oyster.png](./2-accessories/17-ishikawa/ishikawa-oyster.png)
 ## 18-fukui
@@ -80,6 +83,7 @@
  - head-05-akita.png ![head-05-akita.png](./3-heads/05-akita/head-05-akita.png)
 ## 06-yamagata
  - head-06-yamagata.png ![head-06-yamagata.png](./3-heads/06-yamagata/head-06-yamagata.png)
+ - yamagata-hanagasa.png ![yamagata-hanagasa.png](./3-heads/06-yamagata/yamagata-hanagasa.png)
  - yamagata-zaookama.png ![yamagata-zaookama.png](./3-heads/06-yamagata/yamagata-zaookama.png)
 ## 07-fukushima
  - head-07-fukushima.png ![head-07-fukushima.png](./3-heads/07-fukushima/head-07-fukushima.png)
@@ -103,10 +107,12 @@
  - kanagawa-king.png ![kanagawa-king.png](./3-heads/14-kanagawa/kanagawa-king.png)
 ## 15-niigata
  - head-15-niigata.png ![head-15-niigata.png](./3-heads/15-niigata/head-15-niigata.png)
+ - niigata-sasadango.png ![niigata-sasadango.png](./3-heads/15-niigata/niigata-sasadango.png)
  - niigata-tulip.png ![niigata-tulip.png](./3-heads/15-niigata/niigata-tulip.png)
 ## 16-toyama
  - head-16-toyama.png ![head-16-toyama.png](./3-heads/16-toyama/head-16-toyama.png)
  - toyama-kutabe.png ![toyama-kutabe.png](./3-heads/16-toyama/toyama-kutabe.png)
+ - toyama-raicho.png ![toyama-raicho.png](./3-heads/16-toyama/toyama-raicho.png)
 ## 17-ishikawa
  - head-17-ishikawa.png ![head-17-ishikawa.png](./3-heads/17-ishikawa/head-17-ishikawa.png)
  - ishikawa-curry.png ![ishikawa-curry.png](./3-heads/17-ishikawa/ishikawa-curry.png)
