@@ -21,7 +21,7 @@
 ## 13-tokyo
  - tokyo-tower.png ![tokyo-tower.png](./2-accessories/13-tokyo/tokyo-tower.png)
 ## 14-kanagawa
- - kanagawa_yacht.png ![kanagawa_yacht.png](./2-accessories/14-kanagawa/kanagawa_yacht.png)
+ - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
 ## 15-niigata
  - nigata-edamame.png ![nigata-edamame.png](./2-accessories/15-niigata/nigata-edamame.png)
  - niigata-riceear.png ![niigata-riceear.png](./2-accessories/15-niigata/niigata-riceear.png)
