@@ -12,14 +12,17 @@
  - yamagata-shogi.png ![yamagata-shogi.png](./2-accessories/06-yamagata/yamagata-shogi.png)
 ## 07-fukushima
 ## 08-ibaraki
+ - ibaraki-rokkakudo.png ![ibaraki-rokkakudo.png](./2-accessories/08-ibaraki/ibaraki-rokkakudo.png)
 ## 09-tochigi
  - tochigi-lemon.png ![tochigi-lemon.png](./2-accessories/09-tochigi/tochigi-lemon.png)
 ## 10-gunma
  - gunma-yakimanjyu.png ![gunma-yakimanjyu.png](./2-accessories/10-gunma/gunma-yakimanjyu.png)
 ## 11-saitama
 ## 12-chiba
+ - chiba-peanuts.png ![chiba-peanuts.png](./2-accessories/12-chiba/chiba-peanuts.png)
 ## 13-tokyo
  - tokyo-tower.png ![tokyo-tower.png](./2-accessories/13-tokyo/tokyo-tower.png)
+ - tokyo-yamanote.png ![tokyo-yamanote.png](./2-accessories/13-tokyo/tokyo-yamanote.png)
 ## 14-kanagawa
  - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
 ## 15-niigata
@@ -89,6 +92,7 @@
  - head-07-fukushima.png ![head-07-fukushima.png](./3-heads/07-fukushima/head-07-fukushima.png)
 ## 08-ibaraki
  - head-08-ibaraki.png ![head-08-ibaraki.png](./3-heads/08-ibaraki/head-08-ibaraki.png)
+ - ibaraki-rocket.png ![ibaraki-rocket.png](./3-heads/08-ibaraki/ibaraki-rocket.png)
 ## 09-tochigi
  - head-09-tochigi.png ![head-09-tochigi.png](./3-heads/09-tochigi/head-09-tochigi.png)
  - tochigi-toshogu.png ![tochigi-toshogu.png](./3-heads/09-tochigi/tochigi-toshogu.png)
@@ -98,9 +102,11 @@
 ## 11-saitama
  - head-11-saitama.png ![head-11-saitama.png](./3-heads/11-saitama/head-11-saitama.png)
 ## 12-chiba
+ - chiba-nanohana.png ![chiba-nanohana.png](./3-heads/12-chiba/chiba-nanohana.png)
  - head-12-chiba.png ![head-12-chiba.png](./3-heads/12-chiba/head-12-chiba.png)
 ## 13-tokyo
  - head-13-tokyo.png ![head-13-tokyo.png](./3-heads/13-tokyo/head-13-tokyo.png)
+ - tokyo-station.png ![tokyo-station.png](./3-heads/13-tokyo/tokyo-station.png)
  - tokyo-tower.png ![tokyo-tower.png](./3-heads/13-tokyo/tokyo-tower.png)
 ## 14-kanagawa
  - head-14-kanagawa.png ![head-14-kanagawa.png](./3-heads/14-kanagawa/head-14-kanagawa.png)
