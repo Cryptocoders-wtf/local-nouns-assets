@@ -2,15 +2,19 @@
 ## 01-hokkaido
  - hokkaido-crab.png ![hokkaido-crab.png](./2-accessories/01-hokkaido/hokkaido-crab.png)
 ## 02-aomori
+ - aomori-jade.png ![aomori-jade.png](./2-accessories/02-aomori/aomori-jade.png)
  - aomori-squid.png ![aomori-squid.png](./2-accessories/02-aomori/aomori-squid.png)
 ## 03-iwate
+ - iwate-egg.png ![iwate-egg.png](./2-accessories/03-iwate/iwate-egg.png)
 ## 04-miyagi
  - miyagi-zunda.png ![miyagi-zunda.png](./2-accessories/04-miyagi/miyagi-zunda.png)
 ## 05-akita
+ - akita-hatahata.png ![akita-hatahata.png](./2-accessories/05-akita/akita-hatahata.png)
 ## 06-yamagata
  - yamagata-lafrance.png ![yamagata-lafrance.png](./2-accessories/06-yamagata/yamagata-lafrance.png)
  - yamagata-shogi.png ![yamagata-shogi.png](./2-accessories/06-yamagata/yamagata-shogi.png)
 ## 07-fukushima
+ - fukushima-akabeko.png ![fukushima-akabeko.png](./2-accessories/07-fukushima/fukushima-akabeko.png)
 ## 08-ibaraki
  - ibaraki-rokkakudo.png ![ibaraki-rokkakudo.png](./2-accessories/08-ibaraki/ibaraki-rokkakudo.png)
 ## 09-tochigi
@@ -42,6 +46,7 @@
 ## 23-aichi
 ## 24-mie
 ## 25-shiga
+ - shiga-funazushi.png ![shiga-funazushi.png](./2-accessories/25-shiga/shiga-funazushi.png)
 ## 26-kyoto
 ## 27-osaka
  - osaka-jinbezame.png ![osaka-jinbezame.png](./2-accessories/27-osaka/osaka-jinbezame.png)
@@ -76,19 +81,23 @@
  - hokkaido-ishikari.png ![hokkaido-ishikari.png](./3-heads/01-hokkaido/hokkaido-ishikari.png)
 ## 02-aomori
  - aomori-apple.png ![aomori-apple.png](./3-heads/02-aomori/aomori-apple.png)
+ - aomori-dogu.png ![aomori-dogu.png](./3-heads/02-aomori/aomori-dogu.png)
  - head-02-aomori.png ![head-02-aomori.png](./3-heads/02-aomori/head-02-aomori.png)
 ## 03-iwate
  - head-03-iwate.png ![head-03-iwate.png](./3-heads/03-iwate/head-03-iwate.png)
+ - iwate-moriokamen.png ![iwate-moriokamen.png](./3-heads/03-iwate/iwate-moriokamen.png)
 ## 04-miyagi
  - head-04-miyagi.png ![head-04-miyagi.png](./3-heads/04-miyagi/head-04-miyagi.png)
  - miyagi-tanabata.png ![miyagi-tanabata.png](./3-heads/04-miyagi/miyagi-tanabata.png)
 ## 05-akita
+ - akita-namahage.png ![akita-namahage.png](./3-heads/05-akita/akita-namahage.png)
  - head-05-akita.png ![head-05-akita.png](./3-heads/05-akita/head-05-akita.png)
 ## 06-yamagata
  - head-06-yamagata.png ![head-06-yamagata.png](./3-heads/06-yamagata/head-06-yamagata.png)
  - yamagata-hanagasa.png ![yamagata-hanagasa.png](./3-heads/06-yamagata/yamagata-hanagasa.png)
  - yamagata-zaookama.png ![yamagata-zaookama.png](./3-heads/06-yamagata/yamagata-zaookama.png)
 ## 07-fukushima
+ - fukushima-peach.png ![fukushima-peach.png](./3-heads/07-fukushima/fukushima-peach.png)
  - head-07-fukushima.png ![head-07-fukushima.png](./3-heads/07-fukushima/head-07-fukushima.png)
 ## 08-ibaraki
  - head-08-ibaraki.png ![head-08-ibaraki.png](./3-heads/08-ibaraki/head-08-ibaraki.png)
@@ -139,6 +148,7 @@
  - head-24-mie.png ![head-24-mie.png](./3-heads/24-mie/head-24-mie.png)
 ## 25-shiga
  - head-25-shiga.png ![head-25-shiga.png](./3-heads/25-shiga/head-25-shiga.png)
+ - shiga-blackbass.png ![shiga-blackbass.png](./3-heads/25-shiga/shiga-blackbass.png)
 ## 26-kyoto
  - head-26-kyoto.png ![head-26-kyoto.png](./3-heads/26-kyoto/head-26-kyoto.png)
 ## 27-osaka
