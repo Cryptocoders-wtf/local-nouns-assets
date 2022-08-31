@@ -66,11 +66,14 @@
 ## 39-kochi
 ## 40-fukuoka
 ## 41-saga
+ - saga-saga.png ![saga-saga.png](./2-accessories/41-saga/saga-saga.png)
 ## 42-nagasaki
  - nagasaki-gunkanto.png ![nagasaki-gunkanto.png](./2-accessories/42-nagasaki/nagasaki-gunkanto.png)
 ## 43-kumamoto
+ - kumamoto-hitomojiguruguru.png ![kumamoto-hitomojiguruguru.png](./2-accessories/43-kumamoto/kumamoto-hitomojiguruguru.png)
 ## 44-oita
 ## 45-miyazaki
+ - miyazaki-mango.png ![miyazaki-mango.png](./2-accessories/45-miyazaki/miyazaki-mango.png)
 ## 46-kagoshima
  - kagoshima-senganen.png ![kagoshima-senganen.png](./2-accessories/46-kagoshima/kagoshima-senganen.png)
 ## 47-okinawa
@@ -184,15 +187,18 @@
  - head-40-fukuoka.png ![head-40-fukuoka.png](./3-heads/40-fukuoka/head-40-fukuoka.png)
 ## 41-saga
  - head-41-saga.png ![head-41-saga.png](./3-heads/41-saga/head-41-saga.png)
+ - saga-mudskipper-fiddlercrab.png ![saga-mudskipper-fiddlercrab.png](./3-heads/41-saga/saga-mudskipper-fiddlercrab.png)
 ## 42-nagasaki
  - head-42-nagasaki.png ![head-42-nagasaki.png](./3-heads/42-nagasaki/head-42-nagasaki.png)
  - nagasaki-saseboburger.png ![nagasaki-saseboburger.png](./3-heads/42-nagasaki/nagasaki-saseboburger.png)
 ## 43-kumamoto
  - head-43-kumamoto.png ![head-43-kumamoto.png](./3-heads/43-kumamoto/head-43-kumamoto.png)
+ - kumamoto-kumamotocastle.png ![kumamoto-kumamotocastle.png](./3-heads/43-kumamoto/kumamoto-kumamotocastle.png)
 ## 44-oita
  - head-44-oita.png ![head-44-oita.png](./3-heads/44-oita/head-44-oita.png)
 ## 45-miyazaki
  - head-45-miyazaki.png ![head-45-miyazaki.png](./3-heads/45-miyazaki/head-45-miyazaki.png)
+ - miyazaki-chickennanban.png ![miyazaki-chickennanban.png](./3-heads/45-miyazaki/miyazaki-chickennanban.png)
 ## 46-kagoshima
  - head-46-kagoshima.png ![head-46-kagoshima.png](./3-heads/46-kagoshima/head-46-kagoshima.png)
  - kagoshima-goromon.png ![kagoshima-goromon.png](./3-heads/46-kagoshima/kagoshima-goromon.png)
