@@ -48,6 +48,7 @@
 ## 25-shiga
  - shiga-funazushi.png ![shiga-funazushi.png](./2-accessories/25-shiga/shiga-funazushi.png)
 ## 26-kyoto
+ - kyoto-yatsuhashi.png ![kyoto-yatsuhashi.png](./2-accessories/26-kyoto/kyoto-yatsuhashi.png)
 ## 27-osaka
  - osaka-jinbezame.png ![osaka-jinbezame.png](./2-accessories/27-osaka/osaka-jinbezame.png)
 ## 28-hyogo
@@ -55,6 +56,7 @@
 ## 29-nara
  - nara-kakinohasushi.png ![nara-kakinohasushi.png](./2-accessories/29-nara/nara-kakinohasushi.png)
 ## 30-wakayama
+ - wakayama-mikan-kaki.png ![wakayama-mikan-kaki.png](./2-accessories/30-wakayama/wakayama-mikan-kaki.png)
 ## 31-tottori
 ## 32-shimane
 ## 33-okayama
@@ -65,6 +67,7 @@
 ## 38-ehime
 ## 39-kochi
 ## 40-fukuoka
+ - fukuoka-mentaiko.png ![fukuoka-mentaiko.png](./2-accessories/40-fukuoka/fukuoka-mentaiko.png)
 ## 41-saga
  - saga-saga.png ![saga-saga.png](./2-accessories/41-saga/saga-saga.png)
 ## 42-nagasaki
@@ -72,6 +75,7 @@
 ## 43-kumamoto
  - kumamoto-hitomojiguruguru.png ![kumamoto-hitomojiguruguru.png](./2-accessories/43-kumamoto/kumamoto-hitomojiguruguru.png)
 ## 44-oita
+ - oita-yaseuma.png ![oita-yaseuma.png](./2-accessories/44-oita/oita-yaseuma.png)
 ## 45-miyazaki
  - miyazaki-mango.png ![miyazaki-mango.png](./2-accessories/45-miyazaki/miyazaki-mango.png)
 ## 46-kagoshima
@@ -154,6 +158,7 @@
  - shiga-blackbass.png ![shiga-blackbass.png](./3-heads/25-shiga/shiga-blackbass.png)
 ## 26-kyoto
  - head-26-kyoto.png ![head-26-kyoto.png](./3-heads/26-kyoto/head-26-kyoto.png)
+ - kyoto-kinkaku.png ![kyoto-kinkaku.png](./3-heads/26-kyoto/kyoto-kinkaku.png)
 ## 27-osaka
  - head-27-osaka.png ![head-27-osaka.png](./3-heads/27-osaka/head-27-osaka.png)
  - osaka-takoyaki.png ![osaka-takoyaki.png](./3-heads/27-osaka/osaka-takoyaki.png)
@@ -165,6 +170,7 @@
  - nara-deer.png ![nara-deer.png](./3-heads/29-nara/nara-deer.png)
 ## 30-wakayama
  - head-30-wakayama.png ![head-30-wakayama.png](./3-heads/30-wakayama/head-30-wakayama.png)
+ - wakayama-nachifall.png ![wakayama-nachifall.png](./3-heads/30-wakayama/wakayama-nachifall.png)
 ## 31-tottori
  - head-31-tottori.png ![head-31-tottori.png](./3-heads/31-tottori/head-31-tottori.png)
 ## 32-shimane
@@ -184,6 +190,7 @@
 ## 39-kochi
  - head-39-kochi.png ![head-39-kochi.png](./3-heads/39-kochi/head-39-kochi.png)
 ## 40-fukuoka
+ - fukuoka-mojiko.png ![fukuoka-mojiko.png](./3-heads/40-fukuoka/fukuoka-mojiko.png)
  - head-40-fukuoka.png ![head-40-fukuoka.png](./3-heads/40-fukuoka/head-40-fukuoka.png)
 ## 41-saga
  - head-41-saga.png ![head-41-saga.png](./3-heads/41-saga/head-41-saga.png)
@@ -196,6 +203,7 @@
  - kumamoto-kumamotocastle.png ![kumamoto-kumamotocastle.png](./3-heads/43-kumamoto/kumamoto-kumamotocastle.png)
 ## 44-oita
  - head-44-oita.png ![head-44-oita.png](./3-heads/44-oita/head-44-oita.png)
+ - oita-beppujigoku.png ![oita-beppujigoku.png](./3-heads/44-oita/oita-beppujigoku.png)
 ## 45-miyazaki
  - head-45-miyazaki.png ![head-45-miyazaki.png](./3-heads/45-miyazaki/head-45-miyazaki.png)
  - miyazaki-chickennanban.png ![miyazaki-chickennanban.png](./3-heads/45-miyazaki/miyazaki-chickennanban.png)
