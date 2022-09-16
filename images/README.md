@@ -7,9 +7,11 @@
 ## 03-iwate
  - iwate-egg.png ![iwate-egg.png](./2-accessories/03-iwate/iwate-egg.png)
 ## 04-miyagi
+ - miyagi-matsushima.png ![miyagi-matsushima.png](./2-accessories/04-miyagi/miyagi-matsushima.png)
  - miyagi-zunda.png ![miyagi-zunda.png](./2-accessories/04-miyagi/miyagi-zunda.png)
 ## 05-akita
  - akita-hatahata.png ![akita-hatahata.png](./2-accessories/05-akita/akita-hatahata.png)
+ - akita-raspberry.png ![akita-raspberry.png](./2-accessories/05-akita/akita-raspberry.png)
 ## 06-yamagata
  - yamagata-lafrance.png ![yamagata-lafrance.png](./2-accessories/06-yamagata/yamagata-lafrance.png)
  - yamagata-shogi.png ![yamagata-shogi.png](./2-accessories/06-yamagata/yamagata-shogi.png)
@@ -44,7 +46,9 @@
  - fukui-echizen-crab.png ![fukui-echizen-crab.png](./2-accessories/18-fukui/fukui-echizen-crab.png)
  - fukui-yokan.png ![fukui-yokan.png](./2-accessories/18-fukui/fukui-yokan.png)
 ## 19-yamanashi
+ - yamanashi-grape.png ![yamanashi-grape.png](./2-accessories/19-yamanashi/yamanashi-grape.png)
 ## 20-nagano
+ - nagano-oyaki.png ![nagano-oyaki.png](./2-accessories/20-nagano/nagano-oyaki.png)
 ## 21-gifu
 ## 22-shizuoka
 ## 23-aichi
@@ -101,8 +105,10 @@
  - iwate-moriokamen.png ![iwate-moriokamen.png](./3-heads/03-iwate/iwate-moriokamen.png)
 ## 04-miyagi
  - head-04-miyagi.png ![head-04-miyagi.png](./3-heads/04-miyagi/head-04-miyagi.png)
+ - miyagi-datemasamune.png ![miyagi-datemasamune.png](./3-heads/04-miyagi/miyagi-datemasamune.png)
  - miyagi-tanabata.png ![miyagi-tanabata.png](./3-heads/04-miyagi/miyagi-tanabata.png)
 ## 05-akita
+ - akita-akitainu.png ![akita-akitainu.png](./3-heads/05-akita/akita-akitainu.png)
  - akita-namahage.png ![akita-namahage.png](./3-heads/05-akita/akita-namahage.png)
  - head-05-akita.png ![head-05-akita.png](./3-heads/05-akita/head-05-akita.png)
 ## 06-yamagata
@@ -153,8 +159,10 @@
  - head-18-fukui.png ![head-18-fukui.png](./3-heads/18-fukui/head-18-fukui.png)
 ## 19-yamanashi
  - head-19-yamanashi.png ![head-19-yamanashi.png](./3-heads/19-yamanashi/head-19-yamanashi.png)
+ - yamanashi-shingen.png ![yamanashi-shingen.png](./3-heads/19-yamanashi/yamanashi-shingen.png)
 ## 20-nagano
  - head-20-nagano.png ![head-20-nagano.png](./3-heads/20-nagano/head-20-nagano.png)
+ - nagano-matumotocastle.png ![nagano-matumotocastle.png](./3-heads/20-nagano/nagano-matumotocastle.png)
 ## 21-gifu
  - head-21-gifu.png ![head-21-gifu.png](./3-heads/21-gifu/head-21-gifu.png)
 ## 22-shizuoka
