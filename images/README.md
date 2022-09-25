@@ -21,8 +21,10 @@
  - ibaraki-bellpepper.png ![ibaraki-bellpepper.png](./2-accessories/08-ibaraki/ibaraki-bellpepper.png)
  - ibaraki-rokkakudo.png ![ibaraki-rokkakudo.png](./2-accessories/08-ibaraki/ibaraki-rokkakudo.png)
 ## 09-tochigi
+ - tochigi-gyoza.png ![tochigi-gyoza.png](./2-accessories/09-tochigi/tochigi-gyoza.png)
  - tochigi-lemon.png ![tochigi-lemon.png](./2-accessories/09-tochigi/tochigi-lemon.png)
 ## 10-gunma
+ - gunma-akagiyama.png ![gunma-akagiyama.png](./2-accessories/10-gunma/gunma-akagiyama.png)
  - gunma-yakimanjyu.png ![gunma-yakimanjyu.png](./2-accessories/10-gunma/gunma-yakimanjyu.png)
 ## 11-saitama
  - saitama-soka-senbei.png ![saitama-soka-senbei.png](./2-accessories/11-saitama/saitama-soka-senbei.png)
@@ -32,6 +34,7 @@
  - tokyo-tower.png ![tokyo-tower.png](./2-accessories/13-tokyo/tokyo-tower.png)
  - tokyo-yamanote.png ![tokyo-yamanote.png](./2-accessories/13-tokyo/tokyo-yamanote.png)
 ## 14-kanagawa
+ - kanagawa-baybridge.png ![kanagawa-baybridge.png](./2-accessories/14-kanagawa/kanagawa-baybridge.png)
  - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
 ## 15-niigata
  - nigata-edamame.png ![nigata-edamame.png](./2-accessories/15-niigata/nigata-edamame.png)
@@ -81,6 +84,7 @@
 ## 41-saga
  - saga-saga.png ![saga-saga.png](./2-accessories/41-saga/saga-saga.png)
 ## 42-nagasaki
+ - nagasaki-castella.png ![nagasaki-castella.png](./2-accessories/42-nagasaki/nagasaki-castella.png)
  - nagasaki-gunkanto.png ![nagasaki-gunkanto.png](./2-accessories/42-nagasaki/nagasaki-gunkanto.png)
 ## 43-kumamoto
  - kumamoto-hitomojiguruguru.png ![kumamoto-hitomojiguruguru.png](./2-accessories/43-kumamoto/kumamoto-hitomojiguruguru.png)
@@ -88,6 +92,7 @@
  - oita-yaseuma.png ![oita-yaseuma.png](./2-accessories/44-oita/oita-yaseuma.png)
 ## 45-miyazaki
  - miyazaki-mango.png ![miyazaki-mango.png](./2-accessories/45-miyazaki/miyazaki-mango.png)
+ - miyazaki-takachihokyo.png ![miyazaki-takachihokyo.png](./2-accessories/45-miyazaki/miyazaki-takachihokyo.png)
 ## 46-kagoshima
  - kagoshima-senganen.png ![kagoshima-senganen.png](./2-accessories/46-kagoshima/kagoshima-senganen.png)
 ## 47-okinawa
@@ -124,9 +129,11 @@
  - ibaraki-rocket.png ![ibaraki-rocket.png](./3-heads/08-ibaraki/ibaraki-rocket.png)
 ## 09-tochigi
  - head-09-tochigi.png ![head-09-tochigi.png](./3-heads/09-tochigi/head-09-tochigi.png)
+ - tochigi-strawberry.png ![tochigi-strawberry.png](./3-heads/09-tochigi/tochigi-strawberry.png)
  - tochigi-toshogu.png ![tochigi-toshogu.png](./3-heads/09-tochigi/tochigi-toshogu.png)
 ## 10-gunma
  - gunma-kusatsu.png ![gunma-kusatsu.png](./3-heads/10-gunma/gunma-kusatsu.png)
+ - gunma-negi.png ![gunma-negi.png](./3-heads/10-gunma/gunma-negi.png)
  - head-10-gunma.png ![head-10-gunma.png](./3-heads/10-gunma/head-10-gunma.png)
 ## 11-saitama
  - head-11-saitama.png ![head-11-saitama.png](./3-heads/11-saitama/head-11-saitama.png)
@@ -140,6 +147,7 @@
  - tokyo-tower.png ![tokyo-tower.png](./3-heads/13-tokyo/tokyo-tower.png)
 ## 14-kanagawa
  - head-14-kanagawa.png ![head-14-kanagawa.png](./3-heads/14-kanagawa/head-14-kanagawa.png)
+ - kanagawa-curry.png ![kanagawa-curry.png](./3-heads/14-kanagawa/kanagawa-curry.png)
  - kanagawa-king.png ![kanagawa-king.png](./3-heads/14-kanagawa/kanagawa-king.png)
 ## 15-niigata
  - head-15-niigata.png ![head-15-niigata.png](./3-heads/15-niigata/head-15-niigata.png)
@@ -217,6 +225,7 @@
  - saga-mudskipper-fiddlercrab.png ![saga-mudskipper-fiddlercrab.png](./3-heads/41-saga/saga-mudskipper-fiddlercrab.png)
 ## 42-nagasaki
  - head-42-nagasaki.png ![head-42-nagasaki.png](./3-heads/42-nagasaki/head-42-nagasaki.png)
+ - nagasaki-meganebashi.png ![nagasaki-meganebashi.png](./3-heads/42-nagasaki/nagasaki-meganebashi.png)
  - nagasaki-saseboburger.png ![nagasaki-saseboburger.png](./3-heads/42-nagasaki/nagasaki-saseboburger.png)
 ## 43-kumamoto
  - head-43-kumamoto.png ![head-43-kumamoto.png](./3-heads/43-kumamoto/head-43-kumamoto.png)
@@ -226,6 +235,7 @@
  - oita-beppujigoku.png ![oita-beppujigoku.png](./3-heads/44-oita/oita-beppujigoku.png)
 ## 45-miyazaki
  - head-45-miyazaki.png ![head-45-miyazaki.png](./3-heads/45-miyazaki/head-45-miyazaki.png)
+ - miyazaki-aoshima.png ![miyazaki-aoshima.png](./3-heads/45-miyazaki/miyazaki-aoshima.png)
  - miyazaki-chickennanban.png ![miyazaki-chickennanban.png](./3-heads/45-miyazaki/miyazaki-chickennanban.png)
 ## 46-kagoshima
  - head-46-kagoshima.png ![head-46-kagoshima.png](./3-heads/46-kagoshima/head-46-kagoshima.png)
