@@ -63,9 +63,11 @@
 ## 26-kyoto
  - kyoto-yatsuhashi.png ![kyoto-yatsuhashi.png](./2-accessories/26-kyoto/kyoto-yatsuhashi.png)
 ## 27-osaka
+ - osaka-cheesecake.png ![osaka-cheesecake.png](./2-accessories/27-osaka/osaka-cheesecake.png)
  - osaka-jinbezame.png ![osaka-jinbezame.png](./2-accessories/27-osaka/osaka-jinbezame.png)
 ## 28-hyogo
  - hyogo-akashiyaki.png ![hyogo-akashiyaki.png](./2-accessories/28-hyogo/hyogo-akashiyaki.png)
+ - hyogo-tower-museum.png ![hyogo-tower-museum.png](./2-accessories/28-hyogo/hyogo-tower-museum.png)
 ## 29-nara
  - nara-kakinohasushi.png ![nara-kakinohasushi.png](./2-accessories/29-nara/nara-kakinohasushi.png)
 ## 30-wakayama
@@ -81,6 +83,7 @@
 ## 39-kochi
 ## 40-fukuoka
  - fukuoka-mentaiko.png ![fukuoka-mentaiko.png](./2-accessories/40-fukuoka/fukuoka-mentaiko.png)
+ - fukuoka-umegaeda.png ![fukuoka-umegaeda.png](./2-accessories/40-fukuoka/fukuoka-umegaeda.png)
 ## 41-saga
  - saga-saga.png ![saga-saga.png](./2-accessories/41-saga/saga-saga.png)
 ## 42-nagasaki
@@ -96,6 +99,7 @@
 ## 46-kagoshima
  - kagoshima-senganen.png ![kagoshima-senganen.png](./2-accessories/46-kagoshima/kagoshima-senganen.png)
 ## 47-okinawa
+ - okinawa-fish.png ![okinawa-fish.png](./2-accessories/47-okinawa/okinawa-fish.png)
  - okinawa-satokibi.png ![okinawa-satokibi.png](./2-accessories/47-okinawa/okinawa-satokibi.png)
 # 3-heads
 ## 01-hokkaido
@@ -190,9 +194,11 @@
 ## 27-osaka
  - head-27-osaka.png ![head-27-osaka.png](./3-heads/27-osaka/head-27-osaka.png)
  - osaka-takoyaki.png ![osaka-takoyaki.png](./3-heads/27-osaka/osaka-takoyaki.png)
+ - osaka-tower.png ![osaka-tower.png](./3-heads/27-osaka/osaka-tower.png)
 ## 28-hyogo
  - head-28-hyogo.png ![head-28-hyogo.png](./3-heads/28-hyogo/head-28-hyogo.png)
  - hyogo-himejicastle.png ![hyogo-himejicastle.png](./3-heads/28-hyogo/hyogo-himejicastle.png)
+ - hyogo-tajimaushi.png ![hyogo-tajimaushi.png](./3-heads/28-hyogo/hyogo-tajimaushi.png)
 ## 29-nara
  - head-29-nara.png ![head-29-nara.png](./3-heads/29-nara/head-29-nara.png)
  - nara-deer.png ![nara-deer.png](./3-heads/29-nara/nara-deer.png)
@@ -219,6 +225,7 @@
  - head-39-kochi.png ![head-39-kochi.png](./3-heads/39-kochi/head-39-kochi.png)
 ## 40-fukuoka
  - fukuoka-mojiko.png ![fukuoka-mojiko.png](./3-heads/40-fukuoka/fukuoka-mojiko.png)
+ - fukuoka-tenmangu.png ![fukuoka-tenmangu.png](./3-heads/40-fukuoka/fukuoka-tenmangu.png)
  - head-40-fukuoka.png ![head-40-fukuoka.png](./3-heads/40-fukuoka/head-40-fukuoka.png)
 ## 41-saga
  - head-41-saga.png ![head-41-saga.png](./3-heads/41-saga/head-41-saga.png)
@@ -242,4 +249,5 @@
  - kagoshima-goromon.png ![kagoshima-goromon.png](./3-heads/46-kagoshima/kagoshima-goromon.png)
 ## 47-okinawa
  - head-47-okinawa.png ![head-47-okinawa.png](./3-heads/47-okinawa/head-47-okinawa.png)
+ - okinawa-goya-chanpuru.png ![okinawa-goya-chanpuru.png](./3-heads/47-okinawa/okinawa-goya-chanpuru.png)
  - okinawa-siisa.png ![okinawa-siisa.png](./3-heads/47-okinawa/okinawa-siisa.png)
