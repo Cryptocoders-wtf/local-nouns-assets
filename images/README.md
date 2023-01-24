@@ -1,6 +1,7 @@
 # 2-accessories
 ## 01-hokkaido
  - hokkaido-crab.png ![hokkaido-crab.png](./2-accessories/01-hokkaido/hokkaido-crab.png)
+ - hokkaido-melon.png ![hokkaido-melon.png](./2-accessories/01-hokkaido/hokkaido-melon.png)
 ## 02-aomori
  - aomori-jade.png ![aomori-jade.png](./2-accessories/02-aomori/aomori-jade.png)
  - aomori-squid.png ![aomori-squid.png](./2-accessories/02-aomori/aomori-squid.png)
@@ -19,6 +20,7 @@
  - fukushima-akabeko.png ![fukushima-akabeko.png](./2-accessories/07-fukushima/fukushima-akabeko.png)
 ## 08-ibaraki
  - ibaraki-bellpepper.png ![ibaraki-bellpepper.png](./2-accessories/08-ibaraki/ibaraki-bellpepper.png)
+ - ibaraki-natto.png ![ibaraki-natto.png](./2-accessories/08-ibaraki/ibaraki-natto.png)
  - ibaraki-rokkakudo.png ![ibaraki-rokkakudo.png](./2-accessories/08-ibaraki/ibaraki-rokkakudo.png)
 ## 09-tochigi
  - tochigi-gyoza.png ![tochigi-gyoza.png](./2-accessories/09-tochigi/tochigi-gyoza.png)
@@ -34,6 +36,7 @@
  - tokyo-tower.png ![tokyo-tower.png](./2-accessories/13-tokyo/tokyo-tower.png)
  - tokyo-yamanote.png ![tokyo-yamanote.png](./2-accessories/13-tokyo/tokyo-yamanote.png)
 ## 14-kanagawa
+ - ibaraki-natto.png ![ibaraki-natto.png](./2-accessories/14-kanagawa/ibaraki-natto.png)
  - kanagawa-baybridge.png ![kanagawa-baybridge.png](./2-accessories/14-kanagawa/kanagawa-baybridge.png)
  - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
 ## 15-niigata
@@ -41,6 +44,7 @@
  - niigata-riceear.png ![niigata-riceear.png](./2-accessories/15-niigata/niigata-riceear.png)
 ## 16-toyama
  - toyama-kutabe.png ![toyama-kutabe.png](./2-accessories/16-toyama/toyama-kutabe.png)
+ - toyama-shiroebi.png ![toyama-shiroebi.png](./2-accessories/16-toyama/toyama-shiroebi.png)
  - toyama-tateyama.png ![toyama-tateyama.png](./2-accessories/16-toyama/toyama-tateyama.png)
 ## 17-ishikawa
  - ishikawa-kutani-kaga-gosai.png ![ishikawa-kutani-kaga-gosai.png](./2-accessories/17-ishikawa/ishikawa-kutani-kaga-gosai.png)
@@ -105,6 +109,7 @@
 ## 01-hokkaido
  - head-01-hokkaido.png ![head-01-hokkaido.png](./3-heads/01-hokkaido/head-01-hokkaido.png)
  - hokkaido-ishikari.png ![hokkaido-ishikari.png](./3-heads/01-hokkaido/hokkaido-ishikari.png)
+ - hokkaido-tokeidai.png ![hokkaido-tokeidai.png](./3-heads/01-hokkaido/hokkaido-tokeidai.png)
 ## 02-aomori
  - aomori-apple.png ![aomori-apple.png](./3-heads/02-aomori/aomori-apple.png)
  - aomori-dogu.png ![aomori-dogu.png](./3-heads/02-aomori/aomori-dogu.png)
@@ -129,6 +134,7 @@
  - head-07-fukushima.png ![head-07-fukushima.png](./3-heads/07-fukushima/head-07-fukushima.png)
 ## 08-ibaraki
  - head-08-ibaraki.png ![head-08-ibaraki.png](./3-heads/08-ibaraki/head-08-ibaraki.png)
+ - ibaraki-anglerfish.png ![ibaraki-anglerfish.png](./3-heads/08-ibaraki/ibaraki-anglerfish.png)
  - ibaraki-hananuki-ravine.png ![ibaraki-hananuki-ravine.png](./3-heads/08-ibaraki/ibaraki-hananuki-ravine.png)
  - ibaraki-rocket.png ![ibaraki-rocket.png](./3-heads/08-ibaraki/ibaraki-rocket.png)
 ## 09-tochigi
@@ -151,6 +157,7 @@
  - tokyo-tower.png ![tokyo-tower.png](./3-heads/13-tokyo/tokyo-tower.png)
 ## 14-kanagawa
  - head-14-kanagawa.png ![head-14-kanagawa.png](./3-heads/14-kanagawa/head-14-kanagawa.png)
+ - ibaraki-anglerfish.png ![ibaraki-anglerfish.png](./3-heads/14-kanagawa/ibaraki-anglerfish.png)
  - kanagawa-curry.png ![kanagawa-curry.png](./3-heads/14-kanagawa/kanagawa-curry.png)
  - kanagawa-king.png ![kanagawa-king.png](./3-heads/14-kanagawa/kanagawa-king.png)
 ## 15-niigata
@@ -159,6 +166,7 @@
  - niigata-tulip.png ![niigata-tulip.png](./3-heads/15-niigata/niigata-tulip.png)
 ## 16-toyama
  - head-16-toyama.png ![head-16-toyama.png](./3-heads/16-toyama/head-16-toyama.png)
+ - toyama-blackramen.png ![toyama-blackramen.png](./3-heads/16-toyama/toyama-blackramen.png)
  - toyama-kutabe.png ![toyama-kutabe.png](./3-heads/16-toyama/toyama-kutabe.png)
  - toyama-raicho.png ![toyama-raicho.png](./3-heads/16-toyama/toyama-raicho.png)
 ## 17-ishikawa
