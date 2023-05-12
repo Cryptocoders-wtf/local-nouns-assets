@@ -55,13 +55,13 @@ const encode = async () => {
     const folderpath = path.join(__dirname, '../', folder);
     const subFolders = await fs.readdir(folderpath);
     for (const subfolder of subFolders) {
-      if (subfolder.match(/^\d{2}-/)) { // 数字2桁+"-"で始まる 
-        const prefectureId = subfolder.substring(0,3);
+      const prefix = subfolder.match(/^\d{2}-/);  // サブフォルダは数字2桁+"-"で始まる 
+      if (prefix) { 
         const files = await fs.readdir(folderpath + '/' + subfolder);
         for (const file of files) {
           if (file.endsWith("png")) {
             const image = await readPngImage(path.join(folderpath + '/' + subfolder, file));
-            encoder.encodeImage(prefectureId + file.replace(/\.png$/, ''), image, folder.split("/")[1].replace(/^\d-/, ''));
+            encoder.encodeImage(prefix[0] + file.replace(/\.png$/, ''), image, folder.split("/")[1].replace(/^\d-/, ''));
           }
         }
       }
