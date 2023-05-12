@@ -35,14 +35,15 @@ const readPngImage = async (path: string): Promise<PngImage> => {
 const encode = async () => {
   const encoder = new PNGCollectionEncoder(originalData.palette);
 
-  const parseFiles = async (typeName: string, dirPath: string) => {
+  const parseFiles = async (typeName: string, dirPath: string, prefix="") => {
     const files = await fs.readdir(dirPath, { withFileTypes: true });
     for (const file of files) {
       if (file.name.endsWith("png")) {
         const image = await readPngImage(path.join(dirPath, file.name));
-        encoder.encodeImage(file.name.replace(/\.png$/, ''), image, typeName);
+        encoder.encodeImage(prefix + file.name.replace(/\.png$/, ''), image, typeName);
       } else if(file.isDirectory()) {
-        await parseFiles(typeName, dirPath + '/' + file.name);
+        const prefix = (file.name.match(/^\d{2}-/) ||[])[0] || "";
+        await parseFiles(typeName, dirPath + '/' + file.name, prefix);
       }
     }
   };
