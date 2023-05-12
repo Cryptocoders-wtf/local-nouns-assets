@@ -24,14 +24,16 @@ const readDir = async (baseDir) => {
   await (() => {
     return new Promise((resolve, reject) => {
       fs.readdir(assetDir, async (err, dirs) => {
-        for(let i = 0; i < dirs.length; i++) {
+        for (let i = 0; i < dirs.length; i++) {
           const dir = dirs[i];
-          const prefDir = assetDir + "/" + dir;
-          const pngs = await pngFiles(prefDir);
-          console.log("## " + dir)
-          pngs.map(png => {
-            console.log(" - " + png + " " + image(png, baseDir, dir));
-          });
+          if (dir.match(/^\d{2}-/)) {
+            const prefDir = assetDir + "/" + dir;
+            const pngs = await pngFiles(prefDir);
+            console.log("## " + dir)
+            pngs.map(png => {
+              console.log(" - " + png + " " + image(png, baseDir, dir));
+            });
+          }
         }
         resolve()
       });
