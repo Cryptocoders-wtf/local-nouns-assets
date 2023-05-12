@@ -35,37 +35,25 @@ const readPngImage = async (path: string): Promise<PngImage> => {
 const encode = async () => {
   const encoder = new PNGCollectionEncoder(originalData.palette);
 
-  const partfolders = ['images/0-backgrounds', 'images/3-heads', 'nouns_images/4-glasses'];
-
-  for (const folder of partfolders) {
-    const folderpath = path.join(__dirname, '../', folder);
-    const files = await fs.readdir(folderpath);
+  const parseFiles = async (typeName: string, dirPath: string) => {
+    const files = await fs.readdir(dirPath, { withFileTypes: true });
     for (const file of files) {
-      if (file.endsWith("png")) {
-        const image = await readPngImage(path.join(folderpath, file));
-        encoder.encodeImage(file.replace(/\.png$/, ''), image, folder.split("/")[1].replace(/^\d-/, ''));
+      if (file.name.endsWith("png")) {
+        const image = await readPngImage(path.join(dirPath, file.name));
+        encoder.encodeImage(file.name.replace(/\.png$/, ''), image, typeName);
+      } else if(file.isDirectory()) {
+        await parseFiles(typeName, dirPath + '/' + file.name);
       }
     }
-  }
+  };
+
 
   // ヘッドとアクセサリは都道府県のサブフォルダごとに格納されている
-  const partfolders2 = ['images/2-accessories', 'images/3-heads'];
+  const partfolders = ['images/0-backgrounds', 'nouns_images/1-bodies/', 'images/2-accessories', 'images/3-heads', 'nouns_images/4-glasses'];
 
-  for (const folder of partfolders2) {
-    const folderpath = path.join(__dirname, '../', folder);
-    const subFolders = await fs.readdir(folderpath);
-    for (const subfolder of subFolders) {
-      const prefix = subfolder.match(/^\d{2}-/);  // サブフォルダは数字2桁+"-"で始まる 
-      if (prefix) { 
-        const files = await fs.readdir(folderpath + '/' + subfolder);
-        for (const file of files) {
-          if (file.endsWith("png")) {
-            const image = await readPngImage(path.join(folderpath + '/' + subfolder, file));
-            encoder.encodeImage(prefix[0] + file.replace(/\.png$/, ''), image, folder.split("/")[1].replace(/^\d-/, ''));
-          }
-        }
-      }
-    }
+  for (const folder of partfolders) {
+    const typeName = folder.split("/")[1].replace(/^\d-/, '');
+    await parseFiles(typeName, path.join(__dirname, '../', folder));
   }
 
   await fs.writeFile(
