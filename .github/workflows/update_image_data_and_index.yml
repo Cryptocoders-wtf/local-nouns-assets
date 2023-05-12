@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "images/**/**.png"
 
 jobs:
   update_image_data_and_index:
@@ -20,6 +18,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+      - run: npm install -g yarn
+      - run: yarn install
+      - run: yarn run encode
       - run: node scripts/files.js > images/README.md
       - name: Setup git config
         run: |
@@ -27,7 +28,7 @@ jobs:
           git config user.email "<>"
       - name: Commit image data and index
         run: |
-          git add images/README.md
+          git add src/image-local-data.json images/README.md
           if [ $(git diff --staged --name-only | wc -l) != 0 ]; then
             git commit -m "Update image data and index"
             git push origin main
