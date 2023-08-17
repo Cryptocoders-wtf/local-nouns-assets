@@ -40,7 +40,7 @@ const encode = async () => {
     for (const file of files) {
       if (file.name.endsWith("png")) {
         const image = await readPngImage(path.join(dirPath, file.name));
-        encoder.encodeImage(prefix + file.name.replace(/\.png$/, ''), image, typeName);
+        encoder.encodeImage(prefix + file.name.replace(/\.png$/, '') + '-' + typeName, image, typeName);
       } else if(file.isDirectory()) {
         const prefix = (file.name.match(/^\d{2}-/) ||[])[0] || "";
         await parseFiles(typeName, dirPath + '/' + file.name, prefix);
