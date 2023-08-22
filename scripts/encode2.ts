@@ -1,3 +1,6 @@
+/**
+ * 都道府県の形のHEAD(head-始まりのファイル名)のみ
+ */
 import { PNGCollectionEncoder, PngImage } from '@nouns/sdk';
 import { promises as fs } from 'fs';
 import { PNG } from 'pngjs';
@@ -6,7 +9,7 @@ import path from 'path';
 // original nouns asset image data
 const originalData = require("../src/image-original-nouns-data.json");
 
-const DESTINATION = path.join(__dirname, '../src/image-local-data.json');
+const DESTINATION = path.join(__dirname, '../src/image-local-data2.json');
 
 /**
  * Read a PNG image file and return a `PngImage` object.
@@ -39,9 +42,10 @@ const encode = async () => {
     const files = await fs.readdir(dirPath, { withFileTypes: true });
     for (const file of files) {
       // head-始まり(都道府県の形のhead)は1期対象としない
-      if (file.name.endsWith("png") && !file.name.startsWith("head-")) {
+      if (file.name.endsWith("png") && file.name.startsWith("head-")) {
         const image = await readPngImage(path.join(dirPath, file.name));
-        encoder.encodeImage(prefix + file.name.replace(/\.png$/, '') + '-' + typeName, image, typeName);
+        // prefixの先頭にバージョン番号"1"をセット
+        encoder.encodeImage('1' + prefix + file.name.replace(/\.png$/, '') + '-' + typeName, image, typeName);
       } else if(file.isDirectory()) {
         const prefix = (file.name.match(/^\d{2}-/) ||[])[0] || "";
         await parseFiles(typeName, dirPath + '/' + file.name, prefix);
@@ -51,7 +55,8 @@ const encode = async () => {
 
 
   // ヘッドとアクセサリは都道府県のサブフォルダごとに格納されている
-  const partfolders = ['images/0-backgrounds', 'nouns_images/1-bodies/', 'images/2-accessories', 'images/3-heads', 'nouns_images/4-glasses'];
+  // const partfolders = ['images/0-backgrounds', 'nouns_images/1-bodies/', 'images/2-accessories', 'images/3-heads', 'nouns_images/4-glasses'];
+  const partfolders = ['images/3-heads'];
 
   for (const folder of partfolders) {
     const typeName = folder.split("/")[1].replace(/^\d-/, '');
