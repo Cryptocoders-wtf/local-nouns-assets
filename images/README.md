@@ -50,7 +50,6 @@
  - tokyo-tower.png ![tokyo-tower.png](./2-accessories/13-tokyo/tokyo-tower.png)
  - tokyo-yamanote.png ![tokyo-yamanote.png](./2-accessories/13-tokyo/tokyo-yamanote.png)
 ## 14-kanagawa
- - ibaraki-natto.png ![ibaraki-natto.png](./2-accessories/14-kanagawa/ibaraki-natto.png)
  - kanagawa-baybridge.png ![kanagawa-baybridge.png](./2-accessories/14-kanagawa/kanagawa-baybridge.png)
  - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
 ## 15-niigata
@@ -243,7 +242,6 @@
  - tokyo-tower.png ![tokyo-tower.png](./3-heads/13-tokyo/tokyo-tower.png)
 ## 14-kanagawa
  - head-14-kanagawa.png ![head-14-kanagawa.png](./3-heads/14-kanagawa/head-14-kanagawa.png)
- - ibaraki-anglerfish.png ![ibaraki-anglerfish.png](./3-heads/14-kanagawa/ibaraki-anglerfish.png)
  - kanagawa-curry.png ![kanagawa-curry.png](./3-heads/14-kanagawa/kanagawa-curry.png)
  - kanagawa-king.png ![kanagawa-king.png](./3-heads/14-kanagawa/kanagawa-king.png)
 ## 15-niigata
