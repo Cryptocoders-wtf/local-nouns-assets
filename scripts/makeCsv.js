@@ -1,3 +1,8 @@
+/*
+ ご当地パーツの説明書き入力用のCSVを作成する
+ https://docs.google.com/spreadsheets/d/1kJFPOuPFT9frwc0D0a0GteeI1YOpjkz3BM6kxskSK_k/edit?usp=sharing
+*/
+
 const fs = require('fs');
 
 const pngFiles = (dir) => {
