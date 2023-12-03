@@ -364,10 +364,12 @@
 ## 32-shimane
  - head-32-shimane.png ![head-32-shimane.png](./3-heads/32-shimane/head-32-shimane.png)
  - shimane-black-throat.png ![shimane-black-throat.png](./3-heads/32-shimane/shimane-black-throat.png)
+ - shimane-castle.png ![shimane-castle.png](./3-heads/32-shimane/shimane-castle.png)
  - shimane-soba.png ![shimane-soba.png](./3-heads/32-shimane/shimane-soba.png)
  - shimane-zenzai.png ![shimane-zenzai.png](./3-heads/32-shimane/shimane-zenzai.png)
 ## 33-okayama
  - head-33-okayama.png ![head-33-okayama.png](./3-heads/33-okayama/head-33-okayama.png)
+ - okayama-castle.png ![okayama-castle.png](./3-heads/33-okayama/okayama-castle.png)
  - okayama-denim01.png ![okayama-denim01.png](./3-heads/33-okayama/okayama-denim01.png)
  - okayama-denim02.png ![okayama-denim02.png](./3-heads/33-okayama/okayama-denim02.png)
  - okayama-denim03.png ![okayama-denim03.png](./3-heads/33-okayama/okayama-denim03.png)
@@ -405,6 +407,8 @@
  - kagawa-udon01.png ![kagawa-udon01.png](./3-heads/37-kagawa/kagawa-udon01.png)
  - kagawa-udon02.png ![kagawa-udon02.png](./3-heads/37-kagawa/kagawa-udon02.png)
 ## 38-ehime
+ - ehime-castle01.png ![ehime-castle01.png](./3-heads/38-ehime/ehime-castle01.png)
+ - ehime-castle02.png ![ehime-castle02.png](./3-heads/38-ehime/ehime-castle02.png)
  - ehime-iyokan.png ![ehime-iyokan.png](./3-heads/38-ehime/ehime-iyokan.png)
  - ehime-jakoten.png ![ehime-jakoten.png](./3-heads/38-ehime/ehime-jakoten.png)
  - ehime-mandarin-orange.png ![ehime-mandarin-orange.png](./3-heads/38-ehime/ehime-mandarin-orange.png)
