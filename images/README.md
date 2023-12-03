@@ -40,6 +40,7 @@
  - gunma-tomiokasilkmill.png ![gunma-tomiokasilkmill.png](./2-accessories/10-gunma/gunma-tomiokasilkmill.png)
  - gunma-yakimanjyu.png ![gunma-yakimanjyu.png](./2-accessories/10-gunma/gunma-yakimanjyu.png)
 ## 11-saitama
+ - saitama-dischargechannel.png ![saitama-dischargechannel.png](./2-accessories/11-saitama/saitama-dischargechannel.png)
  - saitama-icicle.png ![saitama-icicle.png](./2-accessories/11-saitama/saitama-icicle.png)
  - saitama-satsumaimo.png ![saitama-satsumaimo.png](./2-accessories/11-saitama/saitama-satsumaimo.png)
  - saitama-soka-senbei.png ![saitama-soka-senbei.png](./2-accessories/11-saitama/saitama-soka-senbei.png)
@@ -52,6 +53,7 @@
  - tokyo-tower.png ![tokyo-tower.png](./2-accessories/13-tokyo/tokyo-tower.png)
  - tokyo-yamanote.png ![tokyo-yamanote.png](./2-accessories/13-tokyo/tokyo-yamanote.png)
 ## 14-kanagawa
+ - kanagawa-akarenga.png ![kanagawa-akarenga.png](./2-accessories/14-kanagawa/kanagawa-akarenga.png)
  - kanagawa-baybridge.png ![kanagawa-baybridge.png](./2-accessories/14-kanagawa/kanagawa-baybridge.png)
  - kanagawa-escalator.png ![kanagawa-escalator.png](./2-accessories/14-kanagawa/kanagawa-escalator.png)
  - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
@@ -92,6 +94,7 @@
  - aichi-misodengaku.png ![aichi-misodengaku.png](./2-accessories/23-aichi/aichi-misodengaku.png)
  - aichi-oguratoast.png ![aichi-oguratoast.png](./2-accessories/23-aichi/aichi-oguratoast.png)
  - aichi-tebasaki.png ![aichi-tebasaki.png](./2-accessories/23-aichi/aichi-tebasaki.png)
+ - aichi-uiro.png ![aichi-uiro.png](./2-accessories/23-aichi/aichi-uiro.png)
 ## 24-mie
  - mie-iseebi.png ![mie-iseebi.png](./2-accessories/24-mie/mie-iseebi.png)
  - mie-mochi.png ![mie-mochi.png](./2-accessories/24-mie/mie-mochi.png)
@@ -107,6 +110,7 @@
 ## 27-osaka
  - osaka-cheesecake.png ![osaka-cheesecake.png](./2-accessories/27-osaka/osaka-cheesecake.png)
  - osaka-jinbezame.png ![osaka-jinbezame.png](./2-accessories/27-osaka/osaka-jinbezame.png)
+ - osaka-kushikatsu.png ![osaka-kushikatsu.png](./2-accessories/27-osaka/osaka-kushikatsu.png)
  - osaka-owarai.png ![osaka-owarai.png](./2-accessories/27-osaka/osaka-owarai.png)
 ## 28-hyogo
  - hyogo-akashiyaki.png ![hyogo-akashiyaki.png](./2-accessories/28-hyogo/hyogo-akashiyaki.png)
@@ -258,6 +262,7 @@
 ## 12-chiba
  - chiba-loquat.png ![chiba-loquat.png](./3-heads/12-chiba/chiba-loquat.png)
  - chiba-nanohana.png ![chiba-nanohana.png](./3-heads/12-chiba/chiba-nanohana.png)
+ - chiba-pear.png ![chiba-pear.png](./3-heads/12-chiba/chiba-pear.png)
  - chiba-soysauce.png ![chiba-soysauce.png](./3-heads/12-chiba/chiba-soysauce.png)
  - head-12-chiba.png ![head-12-chiba.png](./3-heads/12-chiba/head-12-chiba.png)
 ## 13-tokyo
