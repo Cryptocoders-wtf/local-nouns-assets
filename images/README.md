@@ -275,6 +275,7 @@
  - head-14-kanagawa.png ![head-14-kanagawa.png](./3-heads/14-kanagawa/head-14-kanagawa.png)
  - kanagawa-curry.png ![kanagawa-curry.png](./3-heads/14-kanagawa/kanagawa-curry.png)
  - kanagawa-king.png ![kanagawa-king.png](./3-heads/14-kanagawa/kanagawa-king.png)
+ - kanagawa-shumai.png ![kanagawa-shumai.png](./3-heads/14-kanagawa/kanagawa-shumai.png)
 ## 15-niigata
  - head-15-niigata.png ![head-15-niigata.png](./3-heads/15-niigata/head-15-niigata.png)
  - niigata-italian.png ![niigata-italian.png](./3-heads/15-niigata/niigata-italian.png)
