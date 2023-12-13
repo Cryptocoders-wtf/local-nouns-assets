@@ -113,6 +113,7 @@
  - osaka-kushikatsu.png ![osaka-kushikatsu.png](./2-accessories/27-osaka/osaka-kushikatsu.png)
  - osaka-owarai.png ![osaka-owarai.png](./2-accessories/27-osaka/osaka-owarai.png)
 ## 28-hyogo
+ - hyogo-akashikaikyobridge.png ![hyogo-akashikaikyobridge.png](./2-accessories/28-hyogo/hyogo-akashikaikyobridge.png)
  - hyogo-akashiyaki.png ![hyogo-akashiyaki.png](./2-accessories/28-hyogo/hyogo-akashiyaki.png)
  - hyogo-jst-meridian.png ![hyogo-jst-meridian.png](./2-accessories/28-hyogo/hyogo-jst-meridian.png)
  - hyogo-tower-museum.png ![hyogo-tower-museum.png](./2-accessories/28-hyogo/hyogo-tower-museum.png)
@@ -208,6 +209,7 @@
  - head-01-hokkaido.png ![head-01-hokkaido.png](./3-heads/01-hokkaido/head-01-hokkaido.png)
  - hokkaido-goryokaku.png ![hokkaido-goryokaku.png](./3-heads/01-hokkaido/hokkaido-goryokaku.png)
  - hokkaido-ishikari.png ![hokkaido-ishikari.png](./3-heads/01-hokkaido/hokkaido-ishikari.png)
+ - hokkaido-potato.png ![hokkaido-potato.png](./3-heads/01-hokkaido/hokkaido-potato.png)
  - hokkaido-tokeidai.png ![hokkaido-tokeidai.png](./3-heads/01-hokkaido/hokkaido-tokeidai.png)
 ## 02-aomori
  - aomori-apple.png ![aomori-apple.png](./3-heads/02-aomori/aomori-apple.png)
@@ -427,6 +429,7 @@
 ## 40-fukuoka
  - fukuoka-hakataramen.png ![fukuoka-hakataramen.png](./3-heads/40-fukuoka/fukuoka-hakataramen.png)
  - fukuoka-mojiko.png ![fukuoka-mojiko.png](./3-heads/40-fukuoka/fukuoka-mojiko.png)
+ - fukuoka-motsunabe.png ![fukuoka-motsunabe.png](./3-heads/40-fukuoka/fukuoka-motsunabe.png)
  - fukuoka-tenmangu.png ![fukuoka-tenmangu.png](./3-heads/40-fukuoka/fukuoka-tenmangu.png)
  - head-40-fukuoka.png ![head-40-fukuoka.png](./3-heads/40-fukuoka/head-40-fukuoka.png)
 ## 41-saga
