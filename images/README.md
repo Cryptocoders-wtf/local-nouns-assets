@@ -58,7 +58,7 @@
  - kanagawa-escalator.png ![kanagawa-escalator.png](./2-accessories/14-kanagawa/kanagawa-escalator.png)
  - kanagawa-yacht.png ![kanagawa-yacht.png](./2-accessories/14-kanagawa/kanagawa-yacht.png)
 ## 15-niigata
- - nigata-edamame.png ![nigata-edamame.png](./2-accessories/15-niigata/nigata-edamame.png)
+ - niigata-edamame.png ![niigata-edamame.png](./2-accessories/15-niigata/niigata-edamame.png)
  - niigata-poppoyaki.png ![niigata-poppoyaki.png](./2-accessories/15-niigata/niigata-poppoyaki.png)
  - niigata-riceear.png ![niigata-riceear.png](./2-accessories/15-niigata/niigata-riceear.png)
 ## 16-toyama
@@ -134,13 +134,13 @@
  - shimane-shijimi-clam.png ![shimane-shijimi-clam.png](./2-accessories/32-shimane/shimane-shijimi-clam.png)
  - shimane-tamahagane.png ![shimane-tamahagane.png](./2-accessories/32-shimane/shimane-tamahagane.png)
 ## 33-okayama
- - oakayama-mamakari.png ![oakayama-mamakari.png](./2-accessories/33-okayama/oakayama-mamakari.png)
- - okauama-muscat.png ![okauama-muscat.png](./2-accessories/33-okayama/okauama-muscat.png)
  - okayama-denim-jacket01.png ![okayama-denim-jacket01.png](./2-accessories/33-okayama/okayama-denim-jacket01.png)
  - okayama-denim-jacket02.png ![okayama-denim-jacket02.png](./2-accessories/33-okayama/okayama-denim-jacket02.png)
  - okayama-denim-jacket03.png ![okayama-denim-jacket03.png](./2-accessories/33-okayama/okayama-denim-jacket03.png)
  - okayama-kibidango.png ![okayama-kibidango.png](./2-accessories/33-okayama/okayama-kibidango.png)
+ - okayama-mamakari.png ![okayama-mamakari.png](./2-accessories/33-okayama/okayama-mamakari.png)
  - okayama-momotaro.png ![okayama-momotaro.png](./2-accessories/33-okayama/okayama-momotaro.png)
+ - okayama-muscat.png ![okayama-muscat.png](./2-accessories/33-okayama/okayama-muscat.png)
  - okayama-peach02.png ![okayama-peach02.png](./2-accessories/33-okayama/okayama-peach02.png)
  - okayama-retainer.png ![okayama-retainer.png](./2-accessories/33-okayama/okayama-retainer.png)
 ## 34-hiroshima
@@ -153,8 +153,8 @@
 ## 35-yamaguchi
  - yamaguchi-kintaikyo.png ![yamaguchi-kintaikyo.png](./2-accessories/35-yamaguchi/yamaguchi-kintaikyo.png)
  - yamaguchi-motonosumiinari.png ![yamaguchi-motonosumiinari.png](./2-accessories/35-yamaguchi/yamaguchi-motonosumiinari.png)
- - yamaguchi-white -snake.png ![yamaguchi-white -snake.png](./2-accessories/35-yamaguchi/yamaguchi-white -snake.png)
- - yamaguhchi-tsunoshima-big-bridge.png ![yamaguhchi-tsunoshima-big-bridge.png](./2-accessories/35-yamaguchi/yamaguhchi-tsunoshima-big-bridge.png)
+ - yamaguchi-tsunoshima-big-bridge.png ![yamaguchi-tsunoshima-big-bridge.png](./2-accessories/35-yamaguchi/yamaguchi-tsunoshima-big-bridge.png)
+ - yamaguchi-white-snake.png ![yamaguchi-white-snake.png](./2-accessories/35-yamaguchi/yamaguchi-white-snake.png)
 ## 36-tokushima
  - tokushima-awaodori.png ![tokushima-awaodori.png](./2-accessories/36-tokushima/tokushima-awaodori.png)
  - tokushima-citrus-sudachi.png ![tokushima-citrus-sudachi.png](./2-accessories/36-tokushima/tokushima-citrus-sudachi.png)
@@ -402,7 +402,7 @@
  - head-36-tokushima.png ![head-36-tokushima.png](./3-heads/36-tokushima/head-36-tokushima.png)
  - tokushima-awa-odori01.png ![tokushima-awa-odori01.png](./3-heads/36-tokushima/tokushima-awa-odori01.png)
  - tokushima-naruto-wakame.png ![tokushima-naruto-wakame.png](./3-heads/36-tokushima/tokushima-naruto-wakame.png)
- - tokusima-whirlpools.png ![tokusima-whirlpools.png](./3-heads/36-tokushima/tokusima-whirlpools.png)
+ - tokushima-whirlpools.png ![tokushima-whirlpools.png](./3-heads/36-tokushima/tokushima-whirlpools.png)
 ## 37-kagawa
  - head-37-kagawa.png ![head-37-kagawa.png](./3-heads/37-kagawa/head-37-kagawa.png)
  - kagawa-bonsai.png ![kagawa-bonsai.png](./3-heads/37-kagawa/kagawa-bonsai.png)
